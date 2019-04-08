@@ -1,0 +1,11 @@
+/Users/bujji/Projects/CSharp/learning/cs-learning/cs-learning/bin/Debug/netcoreapp2.1/cs-learning.deps.json
+/Users/bujji/Projects/CSharp/learning/cs-learning/cs-learning/bin/Debug/netcoreapp2.1/cs-learning.runtimeconfig.json
+/Users/bujji/Projects/CSharp/learning/cs-learning/cs-learning/bin/Debug/netcoreapp2.1/cs-learning.runtimeconfig.dev.json
+/Users/bujji/Projects/CSharp/learning/cs-learning/cs-learning/bin/Debug/netcoreapp2.1/cs-learning.dll
+/Users/bujji/Projects/CSharp/learning/cs-learning/cs-learning/bin/Debug/netcoreapp2.1/cs-learning.pdb
+/Users/bujji/Projects/CSharp/learning/cs-learning/cs-learning/obj/Debug/netcoreapp2.1/cs-learning.csprojAssemblyReference.cache
+/Users/bujji/Projects/CSharp/learning/cs-learning/cs-learning/obj/Debug/netcoreapp2.1/cs-learning.csproj.CoreCompileInputs.cache
+/Users/bujji/Projects/CSharp/learning/cs-learning/cs-learning/obj/Debug/netcoreapp2.1/cs-learning.AssemblyInfoInputs.cache
+/Users/bujji/Projects/CSharp/learning/cs-learning/cs-learning/obj/Debug/netcoreapp2.1/cs-learning.AssemblyInfo.cs
+/Users/bujji/Projects/CSharp/learning/cs-learning/cs-learning/obj/Debug/netcoreapp2.1/cs-learning.dll
+/Users/bujji/Projects/CSharp/learning/cs-learning/cs-learning/obj/Debug/netcoreapp2.1/cs-learning.pdb
